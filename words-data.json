@@ -1,0 +1,111 @@
+{
+    "poverty": [
+      {
+        "word": "needs",
+        "description": "Essential requirements for a decent living encompass various aspects of life, including access to basic necessities like clean water, nutritious food, and adequate shelter. Additionally, quality healthcare, education, safety, and meaningful employment opportunities are vital for well-being. A supportive social environment and the ability to participate in cultural and recreational activities also contribute to a fulfilling life. Ultimately, decent living conditions enable individuals to thrive physically, mentally, and emotionally."
+      },
+      {
+        "word": "scarc",
+        "description": "The state of being insufficient or in short supply"
+      },
+      {
+        "word": "hards",
+        "description": "Difficult life conditions due to lack of resources"
+      },
+      {
+        "word": "slums",
+        "description": "Overcrowded urban areas with poor housing"
+      },
+      {
+        "word": "hunger",
+        "description": "Suffering from lack of food or undernutrition"
+      },
+      {
+        "word": "rural",
+        "description": "Relating to the countryside, not urban areas"
+      },
+      {
+        "word": "gloom",
+        "description": "A state of depression or despondency"
+      },
+      {
+        "word": "wants",
+        "description": "Desires for goods, services or experiences"
+      },
+      {
+        "word": "lacks",
+        "description": "The absence or deficiency of something needed"
+      },
+      {
+        "word": "squal",
+        "description": "A condition of filth, misery, or wretchedness"
+      },
+      {
+        "word": "drear",
+        "description": "A feeling of sadness, gloom, or desolation"
+      },
+      {
+        "word": "strug",
+        "description": "Efforts to overcome difficulties or challenges"
+      },
+      {
+        "word": "pains",
+        "description": "Physical or emotional suffering or discomfort"
+      }
+    ],
+    "equality": [
+      {
+        "word": "equal",
+        "description": "Being the same in quantity, value, or status"
+      },
+      {
+        "word": "parit",
+        "description": "A state of being equal, especially in status"
+      },
+      {
+        "word": "level",
+        "description": "A position on a real or imaginary scale of value"
+      },
+      {
+        "word": "equit",
+        "description": "Fairness, impartiality, or justice in treatment"
+      },
+      {
+        "word": "share",
+        "description": "A portion or part of something divided"
+      },
+      {
+        "word": "unite",
+        "description": "Join together for a common purpose or action"
+      },
+      {
+        "word": "digni",
+        "description": "The state of being worthy, honored, or esteemed"
+      },
+      {
+        "word": "right",
+        "description": "A moral or legal entitlement to have something"
+      },
+      {
+        "word": "trust",
+        "description": "A firm belief in the reliability of someone"
+      },
+      {
+        "word": "value",
+        "description": "The regard that something is held to deserve"
+      },
+      {
+        "word": "moral",
+        "description": "Concerned with the principles of right and wrong"
+      },
+      {
+        "word": "ethic",
+        "description": "A set of moral principles guiding behavior"
+      },
+      {
+        "word": "valid",
+        "description": "Having a sound basis in logic or fact"
+      }
+    ]
+  }
+  
