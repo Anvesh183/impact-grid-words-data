@@ -1,111 +1,263 @@
 {
-    "poverty": [
-      {
-        "word": "needs",
-        "description": "Essential requirements for a decent living encompass various aspects of life, including access to basic necessities like clean water, nutritious food, and adequate shelter. Additionally, quality healthcare, education, safety, and meaningful employment opportunities are vital for well-being. A supportive social environment and the ability to participate in cultural and recreational activities also contribute to a fulfilling life. Ultimately, decent living conditions enable individuals to thrive physically, mentally, and emotionally."
-      },
-      {
-        "word": "scarc",
-        "description": "The state of being insufficient or in short supply"
-      },
-      {
-        "word": "hards",
-        "description": "Difficult life conditions due to lack of resources"
-      },
-      {
-        "word": "slums",
-        "description": "Overcrowded urban areas with poor housing"
-      },
-      {
-        "word": "hunger",
-        "description": "Suffering from lack of food or undernutrition"
-      },
-      {
-        "word": "rural",
-        "description": "Relating to the countryside, not urban areas"
-      },
-      {
-        "word": "gloom",
-        "description": "A state of depression or despondency"
-      },
-      {
-        "word": "wants",
-        "description": "Desires for goods, services or experiences"
-      },
-      {
-        "word": "lacks",
-        "description": "The absence or deficiency of something needed"
-      },
-      {
-        "word": "squal",
-        "description": "A condition of filth, misery, or wretchedness"
-      },
-      {
-        "word": "drear",
-        "description": "A feeling of sadness, gloom, or desolation"
-      },
-      {
-        "word": "strug",
-        "description": "Efforts to overcome difficulties or challenges"
-      },
-      {
-        "word": "pains",
-        "description": "Physical or emotional suffering or discomfort"
-      }
-    ],
-    "equality": [
-      {
-        "word": "equal",
-        "description": "Being the same in quantity, value, or status"
-      },
-      {
-        "word": "parit",
-        "description": "A state of being equal, especially in status"
-      },
-      {
-        "word": "level",
-        "description": "A position on a real or imaginary scale of value"
-      },
-      {
-        "word": "equit",
-        "description": "Fairness, impartiality, or justice in treatment"
-      },
-      {
-        "word": "share",
-        "description": "A portion or part of something divided"
-      },
-      {
-        "word": "unite",
-        "description": "Join together for a common purpose or action"
-      },
-      {
-        "word": "digni",
-        "description": "The state of being worthy, honored, or esteemed"
-      },
-      {
-        "word": "right",
-        "description": "A moral or legal entitlement to have something"
-      },
-      {
-        "word": "trust",
-        "description": "A firm belief in the reliability of someone"
-      },
-      {
-        "word": "value",
-        "description": "The regard that something is held to deserve"
-      },
-      {
-        "word": "moral",
-        "description": "Concerned with the principles of right and wrong"
-      },
-      {
-        "word": "ethic",
-        "description": "A set of moral principles guiding behavior"
-      },
-      {
-        "word": "valid",
-        "description": "Having a sound basis in logic or fact"
-      }
-    ]
-  }
-  
+"inequality": [
+{
+"word": "Merit",
+"description": "Personal qualities or achievements that are considered valuable or desirable, often leading to unequal treatment based on meritocracy."
+},
+{
+"word": "Class",
+"description": "A system of social stratification based on income, education, and occupation that determines social standing."
+},
+{
+"word": "Power",
+"description": "The ability to control or influence others, often based on social status, wealth, or political position."
+},
+{
+"word": "Right",
+"description": "Entitlements or privileges granted to individuals or groups by law, often subject to unequal distribution and protection."
+},
+{
+"word": "Caste",
+"description": "A hierarchical system of social stratification based on birth, often leading to unequal treatment and opportunities."
+},
+{
+"word": "Greed",
+"description": "Excessive desire for material possessions, often leading to unequal distribution of resources."
+},
+{
+"word": "Elite",
+"description": "A select group of individuals who have more power, status, or wealth than others, often leading to inequalities."
+},
+{
+"word": "Exile",
+"description": "Forced removal of people from their homes, often resulting in unequal treatment."
+},
+{
+"word": "Abuse",
+"description": "Mistreatment or exploitation of vulnerable individuals or groups, often resulting in inequalities."
+},
+{
+"word": "Elide",
+"description": "To omit or exclude something, often resulting in unequal access or opportunity."
+}
+],
+"health": [
+{
+"word": "Nurse",
+"description": "A healthcare professional who provides care and support to patients."
+},
+{
+"word": "Vital",
+"description": "Essential or important to health and well-being."
+},
+{
+"word": "Clean",
+"description": "Free from dirt or contamination, often related to hygiene and sanitation."
+},
+{
+"word": "Sleep",
+"description": "A natural state of rest for the body, important for overall health and well-being."
+},
+{
+"word": "Heart",
+"description": "The vital organ responsible for pumping blood throughout the body, important for overall health."
+},
+{
+"word": "Blood",
+"description": "The fluid that circulates through the body, important for overall health and immunity."
+},
+{
+"word": "Fever",
+"description": "A temporary increase in body temperature, often indicative of an underlying infection or illness."
+},
+{
+"word": "Tumor",
+"description": "Abnormal growth or mass in the body, often indicative of cancer or other serious health conditions."
+},
+{
+"word": "Wound",
+"description": "An injury to the body, often requiring medical attention and treatment."
+},
+{
+"word": "Treat",
+"description": "Medical interventions or procedures to address health problems."
+},
+{
+"word": "Check",
+"description": "Medical examinations or evaluations to monitor overall health and detect potential health problems."
+},
+{
+"word": "Virus",
+"description": "Infectious agents that can cause illness or disease."
+},
+{
+"word": "Germs",
+"description": "Microorganisms that can cause illness or disease, often related to hygiene and sanitation."
+},
+{
+"word": "Brain",
+"description": "The central organ of the nervous system, important for overall health and cognitive function."
+},
+{
+"word": "Lungs",
+"description": "The organs responsible for respiration, important for overall health."
+},
+{
+"word": "Drugs",
+"description": "Medications or substances used for medical treatment or abuse, often leading to health problems."
+},
+{
+"word": "Drink",
+"description": "The consumption of alcoholic beverages, often leading to health problems."
+},
+{
+"word": "Rehab",
+"description": "Medical treatments or interventions to aid in recovery from injury or illness."
+},
+{
+"word": "Ulcer",
+"description": "A sore or wound in the lining of the digestive tract, often requiring medical treatment."
+},
+{
+"word": "Wheel",
+"description": "Medical equipment used to assist patients with mobility and transportation."
+},
+{
+"word": "Smell",
+"description": "The sense of smell, often indicative of health problems or conditions."
+},
+{
+"word": "Taste",
+"description": "The sense of taste."
+}
+],
+"environment": [
+{
+"word": "Earth",
+"description": "The planet we inhabit and the natural environment that sustains life."
+},
+{
+"word": "Green",
+"description": "Spaces or areas that are covered in vegetation, important for biodiversity and human health."
+},
+{
+"word": "Clean",
+"description": "Free from pollution and contaminants, often related to environmental health."
+},
+{
+"word": "Water",
+"description": "A vital resource for life and important for environmental health and sustainability."
+},
+{
+"word": "Trees",
+"description": "Essential components of forests and the natural environment, important for carbon sequestration and biodiversity."
+},
+{
+"word": "Ocean",
+"description": "A vast body of saltwater that covers most of the Earth's surface, important for biodiversity and climate regulation."
+},
+{
+"word": "Flora",
+"description": "The plant life of a particular region, important for biodiversity and ecosystem health."
+},
+{
+"word": "Fauna",
+"description": "The animal life of a particular region, important for biodiversity and ecosystem health."
+},
+{
+"word": "Waste",
+"description": "The byproducts of human activities that can pollute the environment, often requiring proper management and disposal."
+},
+{
+"word": "Ozone",
+"description": "A gas in the Earth's atmosphere that protects us from harmful UV radiation, important for environmental health."
+},
+{
+"word": "Solar",
+"description": "Energy from the sun that can be harnessed for power production, important for renewable energy and reducing reliance on fossil fuels."
+},
+{
+"word": "Trash",
+"description": "Discarded materials that can pollute the environment, often requiring proper management and disposal."
+},
+{
+"word": "River",
+"description": "A natural watercourse that is important for biodiversity and human activities such as fishing and agriculture."
+}
+],
+"education": [
+{
+"word": "Learn",
+"description": "The process of acquiring knowledge or skills through study, experience, or teaching."
+},
+{
+"word": "Teach",
+"description": "The process of imparting knowledge or skills to others."
+},
+{
+"word": "Skill",
+"description": "An ability or expertise developed through training or practice."
+},
+{
+"word": "Class",
+"description": "A group of students taught by a teacher, often used to refer to a single session of instruction."
+},
+{
+"word": "Tutor",
+"description": "A person who provides individual instruction or guidance to a student."
+},
+{
+"word": "Grade",
+"description": "A level of proficiency or achievement in a subject or course of study."
+},
+{
+"word": "Study",
+"description": "The process of actively engaging with a subject or course of study to learn and understand it."
+},
+{
+"word": "Books",
+"description": "Printed or electronic resources used for learning and research."
+},
+{
+"word": "Civic",
+"description": "The study of government and citizenship, an important subject for understanding civic responsibility and participation."
+},
+{
+"word": "Ethic",
+"description": "The study of moral principles and values, an important subject for understanding personal and societal values."
+},
+{
+"word": "Music",
+"description": "The study and practice of creating and performing music."
+},
+{
+"word": "Dance",
+"description": "The study and practice of movement and expression through dance."
+},
+{
+"word": "Logic",
+"description": "The study of reasoning and argumentation, an important subject for understanding critical thinking and analysis."
+},
+{
+"word": "Group",
+"description": "A collection of individuals who come together for a common purpose, often used in collaborative learning environments."
+},
+{
+"word": "Write",
+"description": "To express thoughts or ideas in written form, an important skill in many areas of study."
+},
+{
+"word": "Topic",
+"description": "A particular subject or area of focus in a course of study."
+},
+{
+"word": "Drama",
+"description": "The study and practice of theatrical performance and production."
+}
+]
+}
+
+
+
+
+
